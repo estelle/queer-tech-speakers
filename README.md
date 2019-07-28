@@ -97,3 +97,10 @@ Location: Stockholm, Sweden
 Topics: CSS & SASS, JavaScript, PHP, WordPress \
 https://twitter.com/ffraenz, https://fraenz.frieder.es/ \
 Location: Berlin, Germany & Luxembourg
+
+<img src="https://twitter.com/estelle/profile_image?size=original" height="70px" width="70px" align="left" alt="" />
+
+**Estelle Weyl** \
+Topics: CSS, HTML, JavaScript, Web Performance, Web standards, Accessibility \
+https://twitter.com/estellevw, https://perfmattersconf.com, https://standardista.com \
+Location: San Francisco
